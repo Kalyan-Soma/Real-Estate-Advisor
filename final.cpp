@@ -372,8 +372,8 @@ off<<"==========================================================================
                
           cout<<"                                                                                                                                            For Any Further Enquiry:-"<<endl;
            off<<"                                                                                                                                            For Any Further Enquiry:-"<<endl;
-            cout<<"                                                                                                                                         SREPCL Customer Enqury Number:- 8773673245"<<endl;
-            off<<"                                                                                                                                          SREPCL Customer Enqury Number:- 8773673245"<<endl;
+            cout<<"                                                                                                                                         SREPCL Customer Enqury Number:- xxxxxxxxxx"<<endl;
+            off<<"                                                                                                                                          SREPCL Customer Enqury Number:- xxxxxxxxxx"<<endl;
                 cout<<"                                2013 All rights reserved. SUNSHINE REALSTATE ENTERPRISES PRIVATE LIMITED.                                     "<<endl;
                
                
